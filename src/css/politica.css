@@ -367,10 +367,12 @@ body {
     .menu-mobile {
         display: block;
     }
+    .privacy-policy {
+        margin-top: 35px;
+    }
 
     .policy-header img.policy-image {
         max-width: 100%;
-        margin-bottom: 15px;
     }
 }
 
@@ -385,4 +387,5 @@ body {
     .mobile-nav a {
         font-size: 18px;
     }
+
 }
