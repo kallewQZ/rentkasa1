@@ -9,6 +9,7 @@
     /* Facilita cálculo de largura e altura */
     font-family: 'Montserrat', sans-serif;
     /* Fonte principal */
+   ov
 }
 
 body {
@@ -18,6 +19,9 @@ body {
     /* Cor do texto padrão */
     line-height: 1.6;
     /* Espaçamento entre linhas */
+     overflow-x: hidden; /* Esconde qualquer overflow horizontal */
+  margin: 0;          /* Remove margens que podem criar scroll */
+  padding: 0;
 }
 
 /* =========================
@@ -785,4 +789,5 @@ body {
     .mobile-nav a {
         font-size: 18px;
     }
+
 }
