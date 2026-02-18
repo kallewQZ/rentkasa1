@@ -525,7 +525,7 @@ body {
         height: auto;
         object-fit: cover;
     }
-       .service-card {
+     .service-card {
         width: 100%;
         height: 320px;
     }
@@ -544,4 +544,5 @@ body {
     }
 
 }
+
 
